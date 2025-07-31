@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sdc-chat-app/static/css/main.93fe87f8.css",
-    "main.js": "/sdc-chat-app/static/js/main.0a970b18.js",
+    "main.js": "/sdc-chat-app/static/js/main.5397bbd1.js",
     "static/js/453.61d7f8da.chunk.js": "/sdc-chat-app/static/js/453.61d7f8da.chunk.js",
     "index.html": "/sdc-chat-app/index.html",
     "main.93fe87f8.css.map": "/sdc-chat-app/static/css/main.93fe87f8.css.map",
-    "main.0a970b18.js.map": "/sdc-chat-app/static/js/main.0a970b18.js.map",
+    "main.5397bbd1.js.map": "/sdc-chat-app/static/js/main.5397bbd1.js.map",
     "453.61d7f8da.chunk.js.map": "/sdc-chat-app/static/js/453.61d7f8da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93fe87f8.css",
-    "static/js/main.0a970b18.js"
+    "static/js/main.5397bbd1.js"
   ]
 }

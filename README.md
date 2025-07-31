@@ -1,3 +1,11 @@
+🌐 Live Demo
+Visit the live application: https://incryster.github.io/sdc-chat-app
+
+⚠️ Important Note:
+When opening the app link for the first time, the page will reload once automatically.
+This is expected behavior to ensure Firebase and routing are correctly initialized on GitHub Pages.
+After the reload, everything works normally.
+
 <img width="1919" height="880" alt="Screenshot 2025-07-17 145522" src="https://github.com/user-attachments/assets/3c1eefb8-3b7c-4ad2-9851-d732769fa68c" />
 <img width="1899" height="879" alt="Screenshot 2025-07-17 145510" src="https://github.com/user-attachments/assets/7fa759e8-4e00-4c6e-b648-115e7263acd9" />
 <img width="1897" height="884" alt="Screenshot 2025-07-17 145436" src="https://github.com/user-attachments/assets/b4b77a4d-1947-4ab6-87a5-87933081b871" />

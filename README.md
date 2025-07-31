@@ -21,7 +21,7 @@ Database: Firebase Realtime Database
 Hosting: Web deployment ready
 
 🌐 Live Demo
-Visit the live application: https://sdcchat.shop/
+Visit the live application: [https://sdcchat.shop/](https://incryster.github.io/sdc-chat-app)
 📦 Installation & Setup
 
 Clone the repository
